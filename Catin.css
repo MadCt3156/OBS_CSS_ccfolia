@@ -27,7 +27,8 @@ body {
   /* スクロールバー */
   ::-webkit-scrollbar ,
     /* 盤面 */
-  .sc-gSQFLo{
+  .sc-gSQFLo,
+  .sc-bzPmhk{
     display: none !important;
   }
   
