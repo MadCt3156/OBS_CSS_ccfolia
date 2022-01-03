@@ -28,16 +28,11 @@ body {
   ::-webkit-scrollbar ,
     /* 盤面 */
   .sc-gSQFLo,
-  .sc-bzPmhk{
+  /* 背景 */
+  .sc-ZOtfp{
     display: none !important;
   }
   
 
   
-  /* ポップアップ */
-  [role="tooltip"] * {
-    font-size: 21px !important;
-    max-width: 1280px;
-    min-width: 720px;
-    margin: 24px auto;
-  }
+  
