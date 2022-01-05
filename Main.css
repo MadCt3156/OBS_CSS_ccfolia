@@ -25,13 +25,12 @@ body {
   /* 監視モード */
   .MuiSnackbar-root,
   /* スクロールバー */
-  ::-webkit-scrollbar {
+  ::-webkit-scrollbar,
+  img[src~="https://storage.ccfolia-cdn.net/users/EBU7rMNoeNW0…e6f53898472f2580ce326a3705bcd2ef530caabc75703ee1e"]{
     display: none !important;
   }
 
-  .sc-ehCJOs{
-    
-  }
+  
   
   /* 盤面 */
   .sc-gSQFLo {
