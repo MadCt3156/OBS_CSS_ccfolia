@@ -25,8 +25,7 @@ body {
   /* 監視モード */
   .MuiSnackbar-root,
   /* スクロールバー */
-  ::-webkit-scrollbar,
-  img[src~="https://storage.ccfolia-cdn.net/users/EBU7rMNoeNW094XNRw9FYu7iVQJ3/files/c8768608fa5f6bae6f53898472f2580ce326a3705bcd2ef530caabc75703ee1e"]{
+  ::-webkit-scrollbar{
     display: none !important;
   }
 
