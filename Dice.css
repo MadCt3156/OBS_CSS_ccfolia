@@ -75,7 +75,11 @@ body {
   .sc-hYQoXb{
     display: none;
   }
-  
+
+  .sc-ewSTlh>img{
+    width: 100px;
+    height: 100px;
+  }
   .MuiPaper-root>img[src=""] {
     display: none;
   }
