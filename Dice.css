@@ -71,9 +71,11 @@ body {
   }
 
   /*チャット本体*/
-  .MuiToolbar-root,.sc-hYQoXb{
+  .MuiToolbar-root,
+  .sc-hYQoXb{
     display: none;
-    }
+  }
+  
   .MuiPaper-root>img[src=""] {
     display: none;
   }
