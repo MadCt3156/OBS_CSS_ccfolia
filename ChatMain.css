@@ -69,7 +69,17 @@ body {
   .MuiPaper-root>img {
     display: none;
   }
+
+  /*ダイス*/
+  .sc-jlsrNB{
+    display: none;
+    }
   
   .MuiPaper-root>img[src=""] {
     display: none;
   }
+  /*ボタン*/
+  .MuiButtonBase-root{
+    display: none;
+    }
+    
