@@ -22,13 +22,13 @@ li.voice-state:not([data-reactid*="714760831107203102"]) { display:none; }
 
 @keyframes speak-now {
   0% { bottom:0px;
-        content:url("https://cdn.discordapp.com/attachments/933642220903485480/933642400935608340/HARU.png");
+        content:url("https://cdn.discordapp.com/attachments/927190973728038942/937271982947450910/HARU.png");
     }
   50% { bottom:10px; 
     content:url("https://cdn.discordapp.com/attachments/927190973728038942/937271982704173096/HARU.png");
 }
   100% { bottom:0px; 
-    content:url("https://cdn.discordapp.com/attachments/933642220903485480/933642400935608340/HARU.png");
+    content:url("https://cdn.discordapp.com/attachments/927190973728038942/937271982947450910/HARU.png");
     }
 }
 
